@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a cosmologist and aspiring data scientist. Here you will find some ramblings about data science, cosmology and similar stuff. 
 
-### More Information
+My resume is here 
 
-A place to include any other types of information that you'd like to include about yourself.
+you can contact me at 
 
-### Contact me
+[fmarinp05@gmail.com](mailto:fmarinp05@gmail.com)
 
-[email@domain.com](mailto:email@domain.com)
+### Some links
+
