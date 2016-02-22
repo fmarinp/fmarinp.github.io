@@ -14,7 +14,7 @@ You can download my resume [here](../fmarin_resume.pdf)
 
 you can contact me at [fmarinp05 at gmail](mailto:fmarinp05@gmail.com)
 
-You can check my twitter, linkedIn and github profiles in the blue bar below.
+You can check my twitter, linkedIn and github profiles clicking at the respective symbols on the gray bar below.
 
 ##About this site
 
