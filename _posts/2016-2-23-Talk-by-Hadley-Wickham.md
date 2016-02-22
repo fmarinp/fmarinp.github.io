@@ -5,4 +5,4 @@ title: Talk by Hadley Wickham
 
 Great talk by Hadley Wickham, from R Studio
 
-![alt text](../images/hadley.jpg)
+![Hadley Wickham](../images/hadley.jpg =50x)
